@@ -1,0 +1,19 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment secrets
+.env
+.env.*
+
+# Generated data files
+data/raw/*.csv
+data/processed/*.csv
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
